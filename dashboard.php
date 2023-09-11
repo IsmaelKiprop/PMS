@@ -11,6 +11,7 @@
     <?php include('includes/header.php'); ?>
 
     <div class="container">
+        <a href="logout.php">Logout</a>
         <h1>Welcome to the Poultry Management System Dashboard</h1>
         
         <!-- Overview Section -->
@@ -62,6 +63,7 @@
                     <!-- Add more sales records here -->
                 </tbody>
             </table>
+            
         </div>
 
         <!-- Notifications Section -->

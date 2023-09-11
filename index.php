@@ -21,6 +21,7 @@ if (!isset($_SESSION["username"])) {
     <?php include('includes/header.php'); ?>
 
     <div class="container">
+         <a href="logout.php">Logout</a>
         <h1>Welcome to the Poultry Management System</h1>
         
         <!-- Overview Section -->
@@ -72,6 +73,7 @@ if (!isset($_SESSION["username"])) {
                     <!-- Add more sales records here -->
                 </tbody>
             </table>
+           
         </div>
 
         <!-- Notifications Section -->

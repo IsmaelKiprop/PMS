@@ -49,6 +49,7 @@
     <?php include('includes/header.php'); ?>
 
     <div class="container">
+        <a href="logout.php">Logout</a>
         <h1>Welcome, Admin!</h1>
         <p>This is the admin dashboard. You can manage various aspects of the system here.</p>
 

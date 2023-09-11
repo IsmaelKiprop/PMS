@@ -67,7 +67,7 @@
                 <li><a href="index.php">Home</a></li>
                 <li><a href="add_bird.php">Add Bird Data</a></li>
                 <li><a href="track_feed.php">Track Feed Consumption</a></li>
-                <li><a href="manage_employees.php">Manage Employees</a></li>
+                <li><a href="egg_production_chart.php">Egg Production Chart</a></li>
                 <li><a href="record_sales.php">Record Sales</a></li>
                 <li><a href="view_sales.php">View Sales</a></li>
                 <li><a href="add_egg.php">Add Egg Data</a></li>

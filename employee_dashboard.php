@@ -49,6 +49,7 @@
     <?php include('includes/header.php'); ?>
 
     <div class="container">
+        <a href="logout.php">Logout</a>
         <h1>Welcome, Employee!</h1>
         <p>This is your employee dashboard. You can access and manage various tasks related to your role.</p>
 
