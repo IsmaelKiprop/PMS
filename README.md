@@ -2,6 +2,9 @@
 
 Poultry Management System (PMS) is a web-based application designed to help poultry farm owners manage their poultry operations efficiently. This system allows users to track various aspects of poultry farming, including bird data, feed consumption, employee management, and sales records. Additionally, it provides graphical data visualization to monitor egg production and offers quick access to relevant information.
 
+<img width="954" alt="image" src="https://github.com/IsmaelKiprop/PMS/assets/133222922/e0d0b2b9-8a9f-4155-995c-2e1497aa8c9e">
+
+
 ## Features
 
 - Bird Data Management
